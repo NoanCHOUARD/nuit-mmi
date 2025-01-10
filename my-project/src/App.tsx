@@ -36,7 +36,7 @@ const App: React.FC = () => {
             <a className="mr-7 mt-5 transition-all hover:scale-105 hover:text-emerald-400 cursor-pointer">
                 Level to V2?!
             </a>
-            <a href='' className="mr-7 bg-white pl-4 pr-4 mt-4 mb-4 pt-1 items-center justify-center border border-black rounded-md shadow-md transition-all hover:bg-black hover:text-white hover:scale-105">
+            <a target="_blank" href="https://mmi.unilim.fr/~caroalquier1/NUITMMI/" className="mr-7 bg-white pl-4 pr-4 mt-4 mb-4 pt-1 items-center justify-center border border-black rounded-md shadow-md transition-all hover:bg-black hover:text-white hover:scale-105">
                 Play Now
             </a>
         </div>
@@ -53,7 +53,7 @@ const App: React.FC = () => {
             real-world change.
         </h2>
         <div className="flex text-center items-center justify-center text-bold text-4xl font-semibold pt-10 tracking-widest pb-32">
-            <a className="border-2 border-black pt-2 pb-2 pl-6 pr-6 rounded-md shadow-md transition-all hover:bg-black hover:text-white hover:scale-105 font-vt323 cursor-pointer">
+            <a target="_blank" href="https://mmi.unilim.fr/~caroalquier1/NUITMMI/" className="border-2 border-black pt-2 pb-2 pl-6 pr-6 rounded-md shadow-md transition-all hover:bg-black hover:text-white hover:scale-105 font-vt323 cursor-pointer">
                 Play Now
             </a>
         </div>
@@ -204,7 +204,7 @@ const App: React.FC = () => {
           <img src={logob} className='pt-5 pb-5 pl-7 pr-7 transition-all hover:scale-110' alt="" />
 
           {/* bouton play now */}
-            <a className="text-5xl text-white border-2 border-white pt-2 pb-2 pl-6 pr-6 rounded-md shadow-md transition-all hover:bg-white hover:text-black hover:scale-105 font-vt323 cursor-pointer">
+            <a target="_blank" href="https://mmi.unilim.fr/~caroalquier1/NUITMMI/" className="text-5xl text-white border-2 border-white pt-2 pb-2 pl-6 pr-6 rounded-md shadow-md transition-all hover:bg-white hover:text-black hover:scale-105 font-vt323 cursor-pointer">
                 Play Now
             </a>
 
